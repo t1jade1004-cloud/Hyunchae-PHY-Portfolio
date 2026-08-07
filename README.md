@@ -1,2 +1,2 @@
 # Hyunchae-PHY-Portfolio
-High school student's computing physics portfolio
+Numerical methods and physics simulations implemented from Mark Newman's Computational Physics.
