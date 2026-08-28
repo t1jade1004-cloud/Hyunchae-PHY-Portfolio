@@ -5,15 +5,15 @@
 
 This is a high school student's learning journal feautring numerical methods, algorithms, exercises from the book, and different simulations implemented from scratch in Python, based on Mark Newman's *Computational Physics*
 
-## Respitory Structure
+## File Structure
 
 ```text
 .
 ├── Chapter_02_Python_Basics/
-├── Chapter_03_Graphics_and_Visualizations/
+├── Chapter_03_Graphics/
 ├── Chapter_04_Accuracy_and_Speed/     
 ├── Chapter_05_Integration/     
-├── Chapter_06_Solution_of_Linear_and_Nonlinear_Equation/   
+├── Chapter_06_Solution_Equation/   
 ├── Chapter_07_Fourier_Transforms/     
 ├── Chapter_08_ODEs/            
 ├── Chapter_09_PDEs/ 
